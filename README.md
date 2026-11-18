@@ -1,11 +1,12 @@
 # Description
 
-Master 3D models in KiCAD10, learn how to find 3D models online, check them instantly in your browser with a free tool, assign them to footprints, and keep your project 100% portable so your models never break when sharing.
+Master 3D models in KiCAD10, learn how to find 3D models online, check them instantly in your browser with a free tool, assign them to footprints, and keep your project 100% portable so your models never break when sharing.  
+Finally I will show to to EXPORT your PCB assembly as a 3D file.  
 Watch the YouTube Video in which I epxlain all steps in less than 10 minutes.  
 
 # Check out the video <Click>:  
 
-[![Watch the video](https://img.youtube.com/vi/IjlXLzsxZ88/maxresdefault.jpg)](https://youtu.be/IjlXLzsxZ88)  
+[![Watch the video](https://img.youtube.com/vi/MeFAjyUaPfo/maxresdefault.jpg)](https://youtu.be/MeFAjyUaPfo)  
 
 # Links:  
 -Online 3D file viewer: https://3dviewer.net/  
