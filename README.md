@@ -11,8 +11,8 @@ Watch the YouTube Video in which I epxlain all steps in less than 10 minutes.
 # Links:  
 -Online 3D file viewer: https://3dviewer.net/  
 -GrabCad library: https://grabcad.com/library  
--GrabCad sign up:https://www.grabcad.com/profile/register  
-
+  
+Note: To download 3D files at GrabCAD you need to sign up with an email address: https://www.grabcad.com/profile/register  
 
 # Files:  
   
