@@ -16,3 +16,4 @@ Watch the YouTube Video in which I epxlain all steps in less than 10 minutes.
 
 # Files:  
   
+Folder "KiCAD10_E-Load_PCB" contains the KiCAD PCB files as used in the tutorial video, including the RK163 step file and folder structure.
